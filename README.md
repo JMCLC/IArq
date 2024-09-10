@@ -1,2 +1,2 @@
-# IArq
+# Introduction to Architecture
  
